@@ -5,6 +5,7 @@ I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences st
 📫 Reach out to me
 - through E-mail: roccomilicic2@gmail.com
 - through LinkedIn: Rocco Milicic
+- [My Resume/CV](https://github.com/roccomilicic/roccomilicic/blob/main/RoccoMilicic_CV_Aug2024.pdf)
 
 
 ### 🔭 What I have been and am currently working on ...

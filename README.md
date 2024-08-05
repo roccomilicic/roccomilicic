@@ -2,7 +2,7 @@
 
 ## 🌱 What I've been learning at AUT
 
-Year 1
+### Year 1
 - [x] COMP500 Programming Concepts and Techniques
 - [x] COMP501 Computing Technology in Society
 - [x] COMP507 IT Project Management
@@ -12,7 +12,7 @@ Year 1
 - [x] HEAL506 Knowledge, Enquiry anf Comunication
 - [x] MATH500 Mathematical Concepts
 
-Year 2
+### Year 2
 - [x] COMP603 Program Design and Construction
 - [x] COMP610 Data Structures and Algorithms
 - [x] COMP604 Operating Systems
@@ -22,7 +22,7 @@ Year 2
 - [x] COMP613 Logic and Discrete Structures
 - [x] COMP504 Networks and Internet
 
-Year 3
+### Year 3
 - [x] COMP702 Research and Development Project Part 1
 - [x] COMP719 Applied Human Computer Interaction
 - [x] COPMP721 Web Development

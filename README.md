@@ -8,13 +8,13 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
 
-## MERN Stack for COMP602
+### MERN Stack for COMP602
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
 
-## Skills I've learnt
+### Skills I've learnt
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&labelColor=black)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -35,9 +35,9 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 🌱 What I've been learning at AUT
+## 🌱 What I've been learning at AUT
 
-## Year 1
+### Year 1
 - [x] COMP500 Programming Concepts and Techniques
 - [x] COMP501 Computing Technology in Society
 - [x] COMP507 IT Project Management
@@ -47,7 +47,7 @@
 - [x] HEAL506 Knowledge, Enquiry anf Comunication
 - [x] MATH500 Mathematical Concepts
 
-## Year 2
+### Year 2
 - [x] COMP603 Program Design and Construction
 - [x] COMP610 Data Structures and Algorithms
 - [x] COMP604 Operating Systems
@@ -57,7 +57,7 @@
 - [x] COMP613 Logic and Discrete Structures
 - [x] COMP504 Networks and Internet
 
-## Year 3
+### Year 3
 - [x] COMP702 Research and Development Project Part 1
 - [x] COMP719 Applied Human Computer Interaction
 - [x] COPMP721 Web Development

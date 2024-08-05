@@ -1,5 +1,8 @@
 ## Hi I'm Rocco👋
 
+I'm Rocco Milicic, a final year Bachelour of Computer and Information Sciences student at AUT. I'm actively looking for a Software Development role to kickstart my career straight out of university!
+
+
 ## 🔭 What I have been and am currently working on ...
 
 ### MNNN Stack for ENSE701

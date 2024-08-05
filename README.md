@@ -3,24 +3,25 @@
 I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences student at AUT. I'm actively looking for a Software Development role to kickstart my career straight out of university!
 
 📫 Reach out to me
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) roccomilicic2@gmail.com
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Rocco Milicic
+- through E-mail: roccomilicic2@gmail.com
+- through LinkedIn: Rocco Milicic
 
-## 🔭 What I have been and am currently working on ...
 
-### MNNN Stack for ENSE701
+### 🔭 What I have been and am currently working on ...
+
+#### MNNN Stack for ENSE701
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=black)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
 
-### MERN Stack for COMP602
+#### MERN Stack for COMP602
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
 
-### Skills I've learnt during my time at university and my summer internship
+#### Skills and frameworks
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&labelColor=black)
@@ -42,9 +43,9 @@ I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences st
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
-## 🌱 What I've been learning at AUT
+### 🌱 What I've been learning at AUT
 
-### Year 1
+#### Year 1
 - [x] COMP500 Programming Concepts and Techniques
 - [x] COMP501 Computing Technology in Society
 - [x] COMP507 IT Project Management
@@ -54,7 +55,7 @@ I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences st
 - [x] HEAL506 Knowledge, Enquiry anf Comunication
 - [x] MATH500 Mathematical Concepts
 
-### Year 2
+#### Year 2
 - [x] COMP603 Program Design and Construction
 - [x] COMP610 Data Structures and Algorithms
 - [x] COMP604 Operating Systems
@@ -64,7 +65,7 @@ I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences st
 - [x] COMP613 Logic and Discrete Structures
 - [x] COMP504 Networks and Internet
 
-### Year 3
+#### Year 3
 - [x] COMP702 Research and Development Project Part 1
 - [x] COMP719 Applied Human Computer Interaction
 - [x] COPMP721 Web Development
@@ -73,7 +74,7 @@ I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences st
 - [ ] ENSE701 Contemporary Issues in Software Engineering
 
 
-
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=roccomilicic&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 <!--
 **roccomilicic/roccomilicic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

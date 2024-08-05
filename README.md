@@ -75,8 +75,6 @@ I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences st
 - [ ] ENSE701 Contemporary Issues in Software Engineering
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=roccomilicic&count_private=true&theme=tokyonight&hide=contribs,prs)
-
 <!--
 **roccomilicic/roccomilicic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

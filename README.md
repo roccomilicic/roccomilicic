@@ -1,6 +1,6 @@
 ## Hi, I'm Rocco👋
 
-I'm Rocco Milicic, a final year Bachelor of Computer and Information Sciences student at AUT. I'm actively looking for a Software Development role to kickstart my career straight out of university!
+I'm currently in my final year Bachelor of Computer and Information Sciences student at AUT. I'm actively looking for a Software Development role to kickstart my career straight out of university!
 
 📫 Reach out to me
 - through E-mail: roccomilicic2@gmail.com
